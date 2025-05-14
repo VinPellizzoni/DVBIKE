@@ -182,12 +182,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <div class="row">
                 <div class="col-sm">
                     <div class="logo">
-                        <a href="../index.php"><img height="100px" src="../img/Logo D.VBike.png"></a>
+                    <a href="../pages/index2.php"><img height="100px" src="../img/Logo D.VBike.png"></a>
                     </div>
                 </div>
                 <div class="col-sm">
                     <p class="endereco">
-                        RUA BENJAMIN CONSTANT 2236
+                    RUA BENJAMIN CONSTANT 2236<br>51-33787878
                     </p>
                 </div>
                 <div class="col-sm">

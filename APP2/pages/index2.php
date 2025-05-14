@@ -56,15 +56,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['logout']))
 
     </header>
     <main>
-        <div class="container w-25">
-            <div class="row">
-                <div class="col-sm">
-                    <h2 class="telefone text-center">
-                        51-33787878
-                    </h2>
-                </div>
-            </div>
-        </div>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -195,7 +186,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['logout']))
                 </div>
                 <div class="col-sm">
                     <p class="endereco">
-                        RUA BENJAMIN CONSTANT 2236
+                    RUA BENJAMIN CONSTANT 2236<br>51-33787878
                     </p>
                 </div>
                 <div class="col-sm">
